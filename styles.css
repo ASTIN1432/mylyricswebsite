@@ -3,7 +3,17 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+
+    background-image:
+    url('picc.jpg');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
+
+
 
 .audio-section, .lyrics-section {
     text-align: center;
